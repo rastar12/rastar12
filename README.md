@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @rastar12
-- 👀 I’m interested in full stack web design
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on website projects 
-- 📫 How to reach me eugenechanzu@gmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: ...
+💻 Full Stack Developer | 🚀 React & Node.js Enthusiast | 🎨 UI/UX Designer
 
-<!---
-rastar12/rastar12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 About Me
+👋 Hey there! I'm Eugene Chanzu, a passionate full-stack developer skilled in building modern, scalable, and visually stunning web applications. I love working with:
+
+Frontend: React.js, Tailwind CSS, Framer Motion
+
+Backend: Node.js, Express.js, MongoDB
+
+Mobile Development: React Native
+
+UI/UX & Animations: Framer Motion, Three.js, Figma
+
+I'm always exploring new technologies, whether it's AI, blockchain, or enhancing user experience with animations! 🚀
+
+
+
+📊 GitHub Stats
+
+
+📬 Let's Connect!
+📧 Email: eugenechanzu@gmail.com
+
+
+🚀 Always open to collaborations & exciting projects!
+
